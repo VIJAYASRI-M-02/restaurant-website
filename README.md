@@ -1,0 +1,2 @@
+# restaurant-website
+This is a website for a restaurant which was built using HTML, CSS and JAVASCRIPT. the website contains a home page, about page(contains the restaurant details), menu, chef's ratings, customer's rating, Ordering page. User able to view the restaurant's website if he/she wishes to order any of the dish he can log into the website and can order any dishes or he/she can book a table.
